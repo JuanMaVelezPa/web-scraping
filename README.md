@@ -5,7 +5,7 @@ This Python script monitors product prices from e-commerce websites. It uses mul
 ## How to Use
 
 1.  **Installation**: Install the required libraries with `pip install -r requirements.txt`.
-2.  **Input File**: The script reads from `productos_a_monitorear.csv`. Ensure it has these columns: `Client`, `Code`, `Url`.
+2.  **Input File**: The script reads from `products.csv`. Ensure it has these columns: `Client`, `Code`, `Url`.
 3.  **Run**: Execute the script with `python main_script.py`. The output is saved to `consolidated_prices.csv`.
 
 ---

@@ -327,5 +327,5 @@ def main_optimized(input_file):
     print(f"Total execution time: {total_time} (approx. {total_minutes:.2f} minutes)")
 
 if __name__ == '__main__':
-    main_optimized('productos_a_monitorear.csv')
+    main_optimized('products.csv')
     print("\nPrice monitoring process finished.")

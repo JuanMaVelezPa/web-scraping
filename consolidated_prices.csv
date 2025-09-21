@@ -1,1 +1,158 @@
-Client,Date,Product_Name,Price,URL
+Client,Date,Product_Name,Price,Code
+Duquin,2025-09-21 08:21,Lavadora Semiautomática 11 kg Blanca Mabe,699900.0,DUQ00010
+Duquin,2025-09-21 08:21,,,DUQ00003
+Duquin,2025-09-21 08:21,Aire acondicionado mini 12000 btu 220v Mabe,1204900.0,DUQ00006
+Duquin,2025-09-21 08:21,Aire acondicionado 12000btu 220v Blanco Mabe,1449900.0,DUQ00002
+Duquin,2025-09-21 08:21,Aire acondicionado inverter 12000 btu 110v Hyundai,1675900.0,DUQ00005
+Duquin,2025-09-21 08:21,Estufa de piso 4 puestos gas natural con horno romero Negra Haceb,900000.0,DUQ00020
+Duquin,2025-09-21 08:21,Lavadora Semiautomática 13 kg Blanca Mabe,975900.0,DUQ00009
+Duquin,2025-09-21 08:21,Nevera no frost 404 litros Gris plomo Haceb,2064899.0,DUQ00018
+Duquin,2025-09-21 08:21,Nevera No Frost 243 Litros Titanio Haceb,1572771.0,DUQ00014
+Duquin,2025-09-21 08:21,Nevera Frost 320 Litros Grafito Mabe,1889900.0,DUQ00015
+Duquin,2025-09-21 08:21,,,DUQ00004
+Duquin,2025-09-21 08:21,Nevera Frost 390 Litros Grafito Mabe,2109900.0,DUQ00016
+Duquin,2025-09-21 08:21,Lavadora Semiautomática 16 kg Blanca Mabe,1199900.0,DUQ00013
+Duquin,2025-09-21 08:21,Lavadora Semiautomática 10 kg Blanca Hisense,699900.0,DUQ00011
+Duquin,2025-09-21 08:21,Estufa de Piso 4 Puestos Gas Natural con Horno Romero Plata Haceb,705900.0,DUQ00021
+Duquin,2025-09-21 08:21,Nevera no frost 311 litros Titanio Haceb,1762773.0,DUQ00017
+Duquin,2025-09-21 08:21,Lavadora Semiautomatica 7 Kg Blanca Challenger,699900.0,DUQ00008
+Duquin,2025-09-21 08:21,Lavadora Semiautomática 13 kg Blanca Haceb,1092000.0,DUQ00012
+Duquin,2025-09-21 08:21,Estufa de mesa 4 puestos gas natural avellana de mesa Negra Haceb,353500.0,DUQ00019
+Duquin,2025-09-21 08:21,Lavadora Semiautomática 7 kg Blanca Haceb,699865.0,DUQ00007
+Duquin,2025-09-21 08:21,Estufa de Mesa 4 Puestos Gas Propano Negra Haceb,340000.0,DUQ00022
+Duquin,2025-09-21 08:21,Estufa Haceb de Mesa 2 Puestos a Gas Propano – Color Negro,112900.0,DUQ00023
+Duquin,2025-09-21 08:22,Estufa de empotrar 4 puestos gas natural Acero Inoxidabe Challenger,441200.0,DUQ00025
+Duquin,2025-09-21 08:22,Estufa de mesa 2 puestos eléctrica Gris Jaspeado Home elements,96300.0,DUQ00024
+Duquin,2025-09-21 08:22,Estufa de piso 4 puestos gas propano romero con gabinete Plata Haceb,646000.0,DUQ00029
+Duquin,2025-09-21 08:22,Estufa de piso 4 puestos gas natural con horno orégano Acero Inoxidable Haceb,1529900.0,DUQ00027
+Duquin,2025-09-21 08:22,Estufa Romero Gabinete V Gas Natural Plata Haceb,680000.0,DUQ00028
+Duquin,2025-09-21 08:22,Estufa de piso 4 puestos gas natural Plata Haceb,656900.0,DUQ00026
+Duquin,2025-09-21 08:22,Estufa de Mesa Mixta 3x1Gas Propano Avellana Plata Haceb,353500.0,DUQ00031
+Duquin,2025-09-21 08:22,Estufa de mesa 2 puestos gas natural Negra Haceb,133500.0,DUQ00030
+Duquin,2025-09-21 08:22,Estufa de empotrar 4 puestos gas natural Cristal negro Haceb,876900.0,DUQ00038
+Duquin,2025-09-21 08:22,"Freidora de Aire Haceb 4.2 Litros – Color Negro, Cocina Saludable",264988.0,DUQ00039
+Duquin,2025-09-21 08:22,Estufa de mesa 4 puestos gas natural avellana Plata Haceb,353500.0,DUQ00033
+Duquin,2025-09-21 08:22,Estufa de empotrar 4 puestos gas natural Acero Inoxidable Challenger,459900.0,DUQ00034
+Duquin,2025-09-21 08:22,Estufa de empotrar 4 puestos gas natural Acero Inoxidable Haceb,415895.0,DUQ00037
+Duquin,2025-09-21 08:22,Estufa de piso 4 puestos a gas - Plateada Mabe,1589400.0,DUQ00035
+Duquin,2025-09-21 08:22,Freidora de Aire Digital 3.8 Litros Negra Mabe,385000.0,DUQ00040
+Duquin,2025-09-21 08:22,Air Fryer 4.5L Negra Black+Decker,255801.0,DUQ00041
+Duquin,2025-09-21 08:22,Estufa de mesa 2 puestos gas propano Negra Haceb,133500.0,DUQ00036
+Duquin,2025-09-21 08:22,Estufa de mesa 4 puestos gas natural avellana tapa de vidrio Negra Haceb,461600.0,DUQ00032
+Duquin,2025-09-21 08:22,"Freidora de Aire Imusa Esencial 3.2 Litros – Negra, Cocina sin Aceite",300000.0,DUQ00042
+Duquin,2025-09-21 08:22,Horno microondas 20 litros Negro Kalley,302600.0,DUQ00043
+Duquin,2025-09-21 08:22,Horno tostador 9 litros Negro Kalley,128200.0,DUQ00044
+Duquin,2025-09-21 08:22,Horno Microondas 20 litros Gris Mabe,369600.0,DUQ00045
+Duquin,2025-09-21 08:22,Horno microondas 20 litros azafran Negro Haceb,380000.0,DUQ00046
+Duquin,2025-09-21 08:22,Horno Microondas 25 litros Gris Mabe,425500.0,DUQ00047
+Duquin,2025-09-21 08:22,Horno microondas 25 litros Gris Kalley,432000.0,DUQ00048
+Electromillonaria,2025-09-21 08:22,Congelador JLC 520 Litros JLC-520CFV,7303900.0,ELE00050
+Electromillonaria,2025-09-21 08:22,Congelador Electrolux Horizontal 708L EFC70W3HTW,7116900.0,ELE00051
+Duquin,2025-09-21 08:22,Horno Microondas 31 litros azafran Negro Haceb,692600.0,DUQ00049
+Electromillonaria,2025-09-21 08:22,Congelador Horizontal JLC 293 Litros – JLC-386,2396900.0,ELE00053
+Electromillonaria,2025-09-21 08:22,CONGELADOR ELECTROLUX 318LT/HORIZ/1P :: EFCC32C3HQW,2712900.0,ELE00052
+Electromillonaria,2025-09-21 08:22,CONGELADOR ELECTROLUX 508LT/HORIZ/BLANCO :: EFC50W3HTW,4442900.0,ELE00055
+Electromillonaria,2025-09-21 08:22,Congelador Electrolux Horizontal 150L EFCC15C3HQW,1761900.0,ELE00058
+Electromillonaria,2025-09-21 08:22,Congelador Horizontal JLC 99 Litros – JLC-130,1385900.0,ELE00057
+Electromillonaria,2025-09-21 08:22,CONGELADOR ELECTROLUX 200LT/HORIZ/1P :: EFCC20C3HQW,2059900.0,ELE00056
+Electromillonaria,2025-09-21 08:22,Congelador Horizontal JLC 508 Litros – JLC-677,4214900.0,ELE00054
+Electromillonaria,2025-09-21 08:22,Congelador Exhibidor Horizontal JLC 254 Litros JLC-439,3531900.0,ELE00060
+Electromillonaria,2025-09-21 08:22,Congelador Horizontal JLC 249 Litros – JLC-324,2172900.0,ELE00059
+Electromillonaria,2025-09-21 08:22,Congelador Horizontal JLC 418 Litros – JLC-543,3745900.0,ELE00061
+Electromillonaria,2025-09-21 08:22,Congelador Horizontal JLC 198 Litros – JLC-259,1872900.0,ELE00062
+Electromillonaria,2025-09-21 08:22,Congelador Horizontal JLC de 142 Litros – JLC-186,1685900.0,ELE00063
+Electromillonaria,2025-09-21 08:22,Nevecon Electrolux Side By Side 530lt Si,5717900.0,ELE00064
+Electromillonaria,2025-09-21 08:22,Nevecon JLC No Frost Inverter 587lt JLC-689NVNF,5243900.0,ELE00065
+Electromillonaria,2025-09-21 08:22,Nevera Mabe No Frost 415 L Brutos Grafito – RMP415GCG,3558900.0,ELE00066
+Electromillonaria,2025-09-21 08:22,Nevera Mabe No Frost 470 L Brutos Platinum – RMP470GCT,4153900.0,ELE00067
+Electromillonaria,2025-09-21 08:22,Nevera Haceb no frost 404L manija integrada Gris plomo,3646900.0,ELE00068
+Electromillonaria,2025-09-21 08:22,Nevera JLC No Frost Inverter 277 Lt – JLC-364NVNFIA,2808900.0,ELE00069
+Electromillonaria,2025-09-21 08:22,Nevera JLC No Frost Inverter 434lt JLC-559NVNFIA,3745900.0,ELE00071
+Electromillonaria,2025-09-21 08:22,Nevera Electrolux 251lt Da Inverter Negro,3021900.0,ELE00070
+Electromillonaria,2025-09-21 08:22,Nevera JLC No Frost Inverter 368lt JLC-468NVNFIA,3183900.0,ELE00072
+Electromillonaria,2025-09-21 08:22,Nevera JLC Frost 192lt JLC-235NVFA,1872900.0,ELE00073
+Electromillonaria,2025-09-21 08:22,NEV MABE NO FROST 421 LT GRAFITO :: RMP421FBCG,3557900.0,ELE00074
+Electromillonaria,2025-09-21 08:22,NEV ALC 448 SE DA MI TI R2 :: 9003115,4305900.0,ELE00076
+Electromillonaria,2025-09-21 08:22,NEV ALC 404 SE DA MI NE INV TIPO A :: 9003304,3913900.0,ELE00078
+Electromillonaria,2025-09-21 08:22,NEV ALC 448 SE DA ME NE R2 :: 9003120,4583900.0,ELE00075
+Electromillonaria,2025-09-21 08:22,NEV ALC 404 SE DA ME TI INV TIPO A :: 9003305,4118900.0,ELE00077
+Electromillonaria,2025-09-21 08:22,NEV 271 SE MI INOX R2 :: 9002995,3127900.0,ELE00079
+Electromillonaria,2025-09-21 08:22,NEV SAMSUNG 301 LT NO FROST SMARTTHINGS AI NEGRO :: RT31DG5320B1CO,3777900.0,ELE00080
+Electromillonaria,2025-09-21 08:22,NEV MABE NO FROST 267 LTI INOX :: RMA267PYCU,3239900.0,ELE00081
+Electromillonaria,2025-09-21 08:22,NEV MABE NO FROST 2P 247 LT GRAFITO :: RMA247FJCG,2789900.0,ELE00083
+Electromillonaria,2025-09-21 08:22,NEV MABE NO FROST 313LT PLATINUM::RMA313FXCT,3297900.0,ELE00082
+Electromillonaria,2025-09-21 08:22,NEV MABE NO FROST 267 LT GRAFITO::RMA267FBCG,2922900.0,ELE00084
+Electromillonaria,2025-09-21 08:22,NEV 448 SE TI R2::9002757,4269900.0,ELE00085
+Electromillonaria,2025-09-21 08:22,NEV 243 SE MI TI R2::9002741,2898900.0,ELE00086
+Electromillonaria,2025-09-21 08:22,NEV MABE NO FROST 313LT BLACK STEEL::RMA313FXCC,3310900.0,ELE00088
+Electromillonaria,2025-09-21 08:22,NEV 220 CE TI R2::9002739,2247900.0,ELE00087
+Electromillonaria,2025-09-21 08:22,NEV MABE FROST 235 LT GRAFITO :: RMU235NACG1,2112900.0,ELE00089
+Electromillonaria,2025-09-21 08:22,NEVERA SAMSUNG 264LT/NO FROST/DA/GRIS :: RT25FARADS8,3183900.0,ELE00091
+Electromillonaria,2025-09-21 08:22,NEV MABE FROST 211 LT GRAFITO :: RMU210NACG1,2038900.0,ELE00090
+Electromillonaria,2025-09-21 08:22,Cocineta Abba 2p Elec Se200-1″G,282900.0,ELE00093
+Electromillonaria,2025-09-21 08:22,NEV WHIRLPOOL 284LT NO FROST :: WRW27CKTWW,3107900.0,ELE00092
+Electromillonaria,2025-09-21 08:22,COCINETA ABBA 2P GN QA :: SG-200-1 QA GN,163900.0,ELE00094
+Electromillonaria,2025-09-21 08:22,COCINETA AR GAS-2 GP :: 9000690,173900.0,ELE00097
+Electromillonaria,2025-09-21 08:22,COCINETA AR ELEC-2 PTOS :: 9000684,298900.0,ELE00099
+Electromillonaria,2025-09-21 08:22,COCINETA AR ELEC 1 PUESTO :: 9000681,150900.0,ELE00100
+Electromillonaria,2025-09-21 08:22,Estufa ABBA Piso Gas Propano 4 Puestos AT101-6GP,1345900.0,ELE00101
+Electromillonaria,2025-09-21 08:22,Estufa Mabe a Gas 52 cm Inox Mabe – EMC5150SNX1,1803900.0,ELE00103
+Electromillonaria,2025-09-21 08:22,Estufa Mesa ABBA 4 Puestos Gas Propano ST4005GP,485900.0,ELE00102
+Electromillonaria,2025-09-21 08:22,Estufa Mabe A Gas 50 Cm Inox – Horno Termo C  – TX1G-7CON,2017900.0,ELE00104
+Electromillonaria,2025-09-21 08:22,Estufa Mabe a Gas 76 cm Inox – EMC30KXX-6,3327900.0,ELE00105
+Electromillonaria,2025-09-21 08:22,Estufa Mabe De 60 Cm Acero Inoxidable – Electrónico,2721900.0,ELE00106
+Electromillonaria,2025-09-21 08:22,Estufa Orégano Haceb 60 cms inox gas natural,2883900.0,ELE00107
+Electromillonaria,2025-09-21 08:22,CUB MABE 60CM INOX FUNDICION EA :: PM6044NS0,870900.0,ELE00109
+Electromillonaria,2025-09-21 08:22,COCINETA ABBA 2P GN QA :: SG-200-1 QA GN,163900.0,ELE00112
+Electromillonaria,2025-09-21 08:22,EM ABBA ST-400-5QA NE GN :: ST-400-5QA NE GN,520900.0,ELE00114
+Electromillonaria,2025-09-21 08:22,EM ABBA ST-400-5QL NE GN :: ST-400-5QL NE GN,485900.0,ELE00115
+Electromillonaria,2025-09-21 08:22,EM ABBA ST-400-5QA NE GAS :: ST-400-5QA NE GAS,520900.0,ELE00116
+Electromillonaria,2025-09-21 08:22,ESTUFA ROMERO REFLEX 50-V GN NE :: 9002405,1600900.0,ELE00118
+Electromillonaria,2025-09-21 08:22,ESTUFA ROMERO 50-T GP NE :: 9002398,1305900.0,ELE00119
+Electromillonaria,2025-09-21 08:22,ESTUFA ROMERO REFLEX 50-V GP NE :: 9002406,1600900.0,ELE00117
+Electromillonaria,2025-09-21 08:22,EST ROMERO GAB V GAS PL :: 9001904,1192900.0,ELE00121
+Electromillonaria,2025-09-21 08:22,EM AVELLANA V GN NE :: 9001813,697900.0,ELE00125
+Electromillonaria,2025-09-21 08:22,ESTUFA ROMERO 50-T GN NE :: 9002397,1305900.0,ELE00120
+Electromillonaria,2025-09-21 08:22,EST ROMERO GAB T GN PL :: 9001901,1125900.0,ELE00122
+Electromillonaria,2025-09-21 08:22,EST ROMERO GAB T GAS PL :: 9001902,1125900.0,ELE00123
+Electromillonaria,2025-09-21 08:22,EM AVELLANA V GN PL :: 9001811,697900.0,ELE00124
+Electromillonaria,2025-09-21 08:22,EM AVELLANA V GAS PL :: 9001812,697900.0,ELE00126
+Electromillonaria,2025-09-21 08:22,EM AVELLANA V GAS NE :: 9001814,697900.0,ELE00127
+Electromillonaria,2025-09-21 08:22,EM AVELLANA T GAS NE :: 9001809,530900.0,ELE00129
+Electromillonaria,2025-09-21 08:22,EM AVELLANA T GAS PL :: 9001807,530900.0,ELE00128
+Electromillonaria,2025-09-21 08:22,EST 51-T GAS EE GP NE::AT-101-5 GAS,1238900.0,ELE00132
+Electromillonaria,2025-09-21 08:22,COCINETA AR ELEC 1 PUESTO :: 9000681,150900.0,ELE00130
+Electromillonaria,2025-09-21 08:22,EST 51-T GAS EE GN NE :: AT-101-5 NN,1238900.0,ELE00131
+Electromillonaria,2025-09-21 08:22,EST ROMERO GAB V GN PL :: 9001903,1192900.0,ELE00133
+Electromillonaria,2025-09-21 08:22,Estufa De Mesa Avellana Haceb Torre Mixta 3×1 Gas Propano 9002120 Plata,667900.0,ELE00134
+Electromillonaria,2025-09-21 08:22,HORNO MICROONDAS LG NEO CHEF 0.7 PIES NEGRO :: MS2032GAS,758900.0,ELE00135
+Electromillonaria,2025-09-21 08:22,HORNO MICROONDAS SAMSUNG 1.4 PIES-40LTS NG :: MG40DG5524ATCO,1024900.0,ELE00136
+Electromillonaria,2025-09-21 08:22,HORNO HACEB MICROONDAS AR HM-0.7 INOX 99817451 :: 9001260,759900.0,ELE00137
+Electromillonaria,2025-09-21 08:22,Horno Tostador y Freidora de Aire 2 en 1 JLC 28 Litros – JLC-HAF30,823900.0,ELE00138
+Electromillonaria,2025-09-21 08:22,Horno Tostador JLC 9 Litros HJLC-09,244900.0,ELE00139
+Electromillonaria,2025-09-21 08:22,Horno Tostador JLC 21L HJLC-21,411900.0,ELE00140
+Electromillonaria,2025-09-21 08:22,Lavadora JLC Automática 17kg JLCW170-2001PS,2996900.0,ELE00143
+Electromillonaria,2025-09-21 08:22,Lavadora Doble Tina Westinghouse 12 kg Blanco,1465900.0,ELE00144
+Electromillonaria,2025-09-21 08:22,LAV WHIRLPOOL 20KG SUP GRIS TIPOA 10 AÑOS :: WW20LTAHLA,3293900.0,ELE00145
+Electromillonaria,2025-09-21 08:22,Lavadora JLC automática 16kg JLC160-2004TPS,2734900.0,ELE00141
+Electromillonaria,2025-09-21 08:22,Lavadora JLC Automática 14kg JLC140-804TPS,2434900.0,ELE00142
+Electromillonaria,2025-09-21 08:22,LAV LG SUP 19KG/41LB NEGRO :: WT19MVTB,3268900.0,ELE00146
+Electromillonaria,2025-09-21 08:22,LAV SAMSUNG 15 KG INVERTER 20AÑOS GRIS::WA15CG5441BD,3116900.0,ELE00147
+Electromillonaria,2025-09-21 08:22,LAV MABE DIGITAL 14KG NEGRO::LMA4120WDGAB0,2653900.0,ELE00148
+Electromillonaria,2025-09-21 08:22,Lavadora Semiautomática 14kg Westinghouse,1724900.0,ELE00149
+Electromillonaria,2025-09-21 08:22,LAV LG CARGA SUPERIOR 16KG INVERTER NEGRO :: WT16MVTB,2996900.0,ELE00150
+Electromillonaria,2025-09-21 08:22,LAVADORA LG 13 KG NEGRA SMART MOTION::WT13BPB,2906900.0,ELE00151
+Electromillonaria,2025-09-21 08:22,LAV SAMSUNG 13 KG INVERTER 20AÑOS GRIS::WA13CG5441BD,2651900.0,ELE00152
+Electromillonaria,2025-09-21 08:22,LAV LG CARGA SUPERIOR 18KG INVERTER SILVER :: WT18DVTB,2996900.0,ELE00153
+Electromillonaria,2025-09-21 08:22,LAV LG 13KG INVERTER GRIS::WT13DPBK,2712900.0,ELE00154
+Electromillonaria,2025-09-21 08:22,LAV WHIRLPOOL 17KG SUP/GRIS/PANEL DIGITAL TAPA :: WW17KTAHLA,3262900.0,ELE00155
+Electromillonaria,2025-09-21 08:22,LAV MABE DIGITAL 18KG NEGRO::LMA8120WDGAB0,3069900.0,ELE00156
+Electromillonaria,2025-09-21 08:22,Lavadora JLC 18kg – JLCW18-M1858,3483900.0,ELE00157
+Electromillonaria,2025-09-21 08:22,Lavadora JLC 11kg JLCW110-M1236,2191900.0,ELE00159
+Electromillonaria,2025-09-21 08:22,Lavadora JLC 8.5kg JLCW85-M936,1947900.0,ELE00158
+Electromillonaria,2025-09-21 08:22,Freidora de Aire Haceb 6L Inox Negra,605900.0,ELE00160
+Electromillonaria,2025-09-21 08:22,Freidora Haceb Doble Canasta 8L,922900.0,ELE00161
+Electromillonaria,2025-09-21 08:22,Freidora De Aire BLACK+DECKER 4.5lt 200 :: C 70% Ma,504900.0,ELE00163
+Electromillonaria,2025-09-21 08:22,"Freidora De Aire Pxl 5,7 Lts Wifi ::Af-E6",742900.0,ELE00162
+Electromillonaria,2025-09-21 08:22,Horno Tostador y Freidora de Aire 2 en 1 JLC 28 Litros – JLC-HAF30,823900.0,ELE00165
+Electromillonaria,2025-09-21 08:22,Freidora de Aire JLC 2.8 Litros – JLC-AF9105,336900.0,ELE00166
